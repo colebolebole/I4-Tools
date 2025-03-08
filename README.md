@@ -16,7 +16,7 @@
 ## Installation
 
 1. **Download the Script**:
-   - Clone the repository or download the script file (`I4-DLU.bat`) from the [releases page](https://github.com/colebolebole/I4-tools/releases).
+   - Clone the repository or download the script file (`I4-Tools.bat`) from the [releases page](https://github.com/colebolebole/I4-tools/releases).
 
 2. **Run the Script**
 
