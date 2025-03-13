@@ -1,5 +1,12 @@
 # I4-Tools (IPv4 DNS Lookup Utility)
 
+inspired by 
+
+<p><a href="https://github.com/bladestech/I4-DLU">I4-DLU</a>
+
+
+---
+
 **I4-Tools (IPv4 DNS Lookup Utility)** is a powerful and user-friendly command-line tool designed to perform IPv4 DNS lookups. It allows users to easily resolve domain names and URLs to their corresponding IPv4 addresses. The utility supports testing common domain suffixes and all possible suffixes available in its database, making it a versatile tool for network administrators, developers, and anyone interested in DNS resolution.
 
 ![I4-Tools](https://github.com/user-attachments/assets/5543b340-569c-40f0-998a-f644ddd48fe7)
